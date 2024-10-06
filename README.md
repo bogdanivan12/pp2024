@@ -1,5 +1,6 @@
 # Programare Procedurală 2024-2025
-Bine ați venit pe pagina de GitHub a cursului de Programare Procedurală! Aici veți găsi materialele de laborator și diverse informații referitoare la materie. Succes!
+Bine ați venit pe pagina de GitHub a cursului de Programare Procedurală!
+Aici veți găsi materialele de laborator și diverse informații referitoare la materie. Succes!
 
 ### Echipa
 - Curs:
