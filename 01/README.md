@@ -30,6 +30,5 @@ iar în caz afirmativ afișați cele 3 numere sub forma `hh:mm:ss`. Dacă valori
 7. Scrieți un program care să citească de la tastatură două numere întregi, două numere reale și două caractere, câte
 două pe linie, separate cu spațiu, iar apoi să le afișeze astfel:
    - toate pe un singur rând, în ordinea în care au fost citite;
-   - toate pe un singur rând, sub forma: un număr întreg, un număr real, un caracter, un număr întreg, un număr real, un caracter;
    - fiecare pe câte un rând;
    - câte două pe un rând.
