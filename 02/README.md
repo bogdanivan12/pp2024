@@ -22,7 +22,6 @@ Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA
 8. Se citește un număr natural `n` și un număr prim `p`. Să se afișeze la ce putere apare `p` in descompunerea in factori primi ai lui `n`.
 
 ## Temă
-
 9. Dându-se trei numere `r`, `g` și `b`, verificați dacă acestea pot reprezenta o culoare sau o nuanță de gri.
 O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre oricare două coduri ce reprezintă culorile primare nu depășește 10.
 
@@ -32,16 +31,12 @@ O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre 
 
 12. [pbinfo.ro - oglindit](https://www.pbinfo.ro/probleme/69/oglindit)
 
-13. Se citește un număr natural `n`. Să se verifice dacă este palindrom.
-Un număr se numește palindrom dacă prima lui cifră este egală cu ultima, a doua cu penultima și așa mai departe.
-De exemplu numerele 1221, 505 și 7 sunt palindromuri, în vreme ce 500, 1410 și 2424 nu sunt palindromuri.
+13. [pbinfo.ro - prod_k](https://www.pbinfo.ro/probleme/3078/prod-k)
 
-14. [pbinfo.ro - prod_k](https://www.pbinfo.ro/probleme/3078/prod-k)
+14. [pbinfo.ro - suma_prefixe_pare](https://www.pbinfo.ro/probleme/4563/suma-prefixe-pare)
 
-15. [pbinfo.ro - suma_prefixe_pare](https://www.pbinfo.ro/probleme/4563/suma-prefixe-pare)
+15. [pbinfo.ro - ProdusCifreImpare](https://www.pbinfo.ro/probleme/65/produscifreimpare)
 
-16. [pbinfo.ro - ProdusCifreImpare](https://www.pbinfo.ro/probleme/65/produscifreimpare)
+16. [pbinfo.ro - Cifre_IX](https://www.pbinfo.ro/probleme/4558/cifre-ix)
 
-17. [pbinfo.ro - Cifre_IX](https://www.pbinfo.ro/probleme/4558/cifre-ix)
-
-18. [leetcode.com - Cifra de control](https://leetcode.com/problems/add-digits/description/)
+17. [leetcode.com - Cifra de control](https://leetcode.com/problems/add-digits/description/)
