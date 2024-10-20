@@ -3,7 +3,7 @@
 ## Cerințe
 1. Să se scrie un program care citeşte de la tastatură trei numere naturale și determină diferenţa dintre cel mai mare şi cel mai mic.
 
-2. Se citesc trei numere a, b și c, reprezentând coeficienții ecuației de gradul 2 <code>ax<sup>2</sup> + bx + c = 0</code>. Să se afișeze soluţiile acestei ecuaţii.
+2. Se citesc trei numere `a`, `b` și `c`, reprezentând coeficienții ecuației de gradul 2 <code>ax<sup>2</sup> + bx + c = 0</code>. Să se afișeze soluţiile acestei ecuaţii.
 
 3. Se citesc de la tastatura coordonatele unui punct `(x, y)`. Stabiliți dacă punctul este originea, sau se situează pe una dintre axele de coordonate, sau pe una dintre bisectoare, sau in afara axelor și bisectoarelor.
 Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA BISECTOARE`, `A DOUA BISECTOARE`, `IN AFARA LINIILOR PRINCIPALE`. **Exemplu**: Pentru punctul `(1, -1)` se va afișa `A DOUA BISECTOARE`. Pentru `(-1, 3)` se vor afișa mesajele `IN AFARA LINIILOR PRINCIPALE`, `CADRANUL II`. 
@@ -15,20 +15,33 @@ Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA
 
 5. Să se scrie un program care să determine numărul de cifre pare și numărul de cifre impare ale unui număr natural citit de la tastatură.
 
-6. Se citește un număr natural `n` și se cere să se scrie valoarea `True` dacă numărul `n` are toate cifrele egale, sau valoarea `False` în caz contrar. **Exemplu:** dacă `n = 2222` se scrie valoarea `True`, iar dacă `n = 212` se scrie valoarea `False`.
+6. Se citește un număr natural nenul `n` și se cere să se scrie valoarea `True` dacă numărul `n` are toate cifrele egale, sau valoarea `False` în caz contrar. **Exemplu:** dacă `n = 2222` se scrie valoarea `True`, iar dacă `n = 212` se scrie valoarea `False`.
 
 7. Se citește un număr natural `n` și o cifră `c > 0`. Să se adauge cifra `c` la începutul și la sfârșitul lui `n`. **Exemplu:** pentru `n = 345` și `c = 1` se va afișa `13451`.
 
 8. Se citește un număr natural `n` și un număr prim `p`. Să se afișeze la ce putere apare `p` in descompunerea in factori primi ai lui `n`.
 
-## Cerințe suplimentare (opționale)
+## Temă
 
-9. [pbinfo.ro - prod_k](https://www.pbinfo.ro/probleme/3078/prod-k)
+9. Dându-se trei numere `r`, `g` și `b`, verificați dacă acestea pot reprezenta o culoare sau o nuanță de gri.
+O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre oricare două coduri ce reprezintă culorile primare nu depășește 10.
 
-10. [pbinfo.ro - suma_prefixe_pare](https://www.pbinfo.ro/probleme/4563/suma-prefixe-pare)
+10. Să se scrie un program care citeşte de la tastatură trei numere naturale distincte și le afișează în ordine crescătoare.
 
-11. [pbinfo.ro - ProdusCifreImpare](https://www.pbinfo.ro/probleme/65/produscifreimpare)
+11. Se citește un număr natural `n` și se cere să se scrie valoarea `True` dacă toate cifrele lui `n` sunt din mulțimea `{2, 3}` sau valoarea `False` în caz contrar.
 
-12. [pbinfo.ro - Cifre_IX](https://www.pbinfo.ro/probleme/4558/cifre-ix)
+12. [pbinfo.ro - oglindit](https://www.pbinfo.ro/probleme/69/oglindit)
 
-13. [leetcode.com - Cifra de control](https://leetcode.com/problems/add-digits/description/)
+13. Se citește un număr natural `n`. Să se verifice dacă este palindrom.
+Un număr se numește palindrom dacă prima lui cifră este egală cu ultima, a doua cu penultima și așa mai departe.
+De exemplu numerele 1221, 505 și 7 sunt palindromuri, în vreme ce 500, 1410 și 2424 nu sunt palindromuri.
+
+14. [pbinfo.ro - prod_k](https://www.pbinfo.ro/probleme/3078/prod-k)
+
+15. [pbinfo.ro - suma_prefixe_pare](https://www.pbinfo.ro/probleme/4563/suma-prefixe-pare)
+
+16. [pbinfo.ro - ProdusCifreImpare](https://www.pbinfo.ro/probleme/65/produscifreimpare)
+
+17. [pbinfo.ro - Cifre_IX](https://www.pbinfo.ro/probleme/4558/cifre-ix)
+
+18. [leetcode.com - Cifra de control](https://leetcode.com/problems/add-digits/description/)
