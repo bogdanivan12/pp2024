@@ -9,9 +9,9 @@
 Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA BISECTOARE`, `A DOUA BISECTOARE`, `IN AFARA LINIILOR PRINCIPALE`. **Exemplu**: Pentru punctul `(1, -1)` se va afișa `A DOUA BISECTOARE`. Pentru `(-1, 3)` se vor afișa mesajele `IN AFARA LINIILOR PRINCIPALE`, `CADRANUL II`. 
 
 4. Se citesc de la tastatură trei numere naturale `z`, `l`, `a`, reprezentând ziua, luna și anul unei date calendaristice. Să se afișeze data zilei următoare, în formatul `zi.luna.an`. Reamintim că un an este bisect dacă:
-   - este divizibil cu 4 și nu este divizibil cu 100  
+   - este divizibil cu `4` și nu este divizibil cu `100`  
    sau
-   - este divizibil cu 400.
+   - este divizibil cu `400`.
 
 5. Să se scrie un program care să determine numărul de cifre pare și numărul de cifre impare ale unui număr natural citit de la tastatură.
 
