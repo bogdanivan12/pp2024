@@ -41,13 +41,13 @@ Dacă nu au fost citite numere prime, se va afişa doar mesajul `IMPOSIBIL`.
 De exemplu, dacă `L1=440 cm` și `L2=280 cm`, atunci meșterul are nevoie de `77` de plăci de gresie, fiecare având latura de `40 cm`.
 
 11. Se citește numărul natural n, şi două caractere c şi d. Să se afișeze următorul pătrat, format din n linii şi n coloane:
-   ```
-   ccc...cc
-   cdd...dc
-   ....
-   cdd...dc
-   ccc...cc
-   ```
+       ```
+       ccc...cc
+       cdd...dc
+       ....
+       cdd...dc
+       ccc...cc
+       ```
 
 12. Se citesc două numere naturale `a` și `b`. Să se afișeze cel mai mic număr Fibonacci din intervalul `[a, b]`.
 
