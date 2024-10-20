@@ -23,7 +23,7 @@ Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA
 
 ## Temă
 9. Dându-se trei numere `r`, `g` și `b`, verificați dacă acestea pot reprezenta o culoare sau o nuanță de gri.
-O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre oricare două coduri ce reprezintă culorile primare nu depășește 10.
+O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre oricare două coduri ce reprezintă culorile primare nu depășește `10`.
 
 10. Să se scrie un program care citeşte de la tastatură trei numere naturale distincte și le afișează în ordine crescătoare.
 
