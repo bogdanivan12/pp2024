@@ -9,9 +9,9 @@
 Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA BISECTOARE`, `A DOUA BISECTOARE`, `IN AFARA LINIILOR PRINCIPALE`. **Exemplu**: Pentru punctul `(1, -1)` se va afișa `A DOUA BISECTOARE`. Pentru `(-1, 3)` se vor afișa mesajele `IN AFARA LINIILOR PRINCIPALE`, `CADRANUL II`. 
 
 4. Se citesc de la tastatură trei numere naturale `z`, `l`, `a`, reprezentând ziua, luna și anul unei date calendaristice. Să se afișeze data zilei următoare, în formatul `zi.luna.an`. Reamintim că un an este bisect dacă:
-   - este divizibil cu 4 și nu este divizibil cu 100  
+   - este divizibil cu `4` și nu este divizibil cu `100`  
    sau
-   - este divizibil cu 400.
+   - este divizibil cu `400`.
 
 5. Să se scrie un program care să determine numărul de cifre pare și numărul de cifre impare ale unui număr natural citit de la tastatură.
 
@@ -22,9 +22,8 @@ Afișați, dupa caz, unul dintre mesajele: `ORIGINE`, `AXA OX`, `AXA OY`, `PRIMA
 8. Se citește un număr natural `n` și un număr prim `p`. Să se afișeze la ce putere apare `p` in descompunerea in factori primi ai lui `n`.
 
 ## Temă
-
 9. Dându-se trei numere `r`, `g` și `b`, verificați dacă acestea pot reprezenta o culoare sau o nuanță de gri.
-O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre oricare două coduri ce reprezintă culorile primare nu depășește 10.
+O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre oricare două coduri ce reprezintă culorile primare nu depășește `10`.
 
 10. Să se scrie un program care citeşte de la tastatură trei numere naturale distincte și le afișează în ordine crescătoare.
 
@@ -32,16 +31,12 @@ O culoare se consideră nuanță de gri dacă și numai dacă diferența dintre 
 
 12. [pbinfo.ro - oglindit](https://www.pbinfo.ro/probleme/69/oglindit)
 
-13. Se citește un număr natural `n`. Să se verifice dacă este palindrom.
-Un număr se numește palindrom dacă prima lui cifră este egală cu ultima, a doua cu penultima și așa mai departe.
-De exemplu numerele 1221, 505 și 7 sunt palindromuri, în vreme ce 500, 1410 și 2424 nu sunt palindromuri.
+13. [pbinfo.ro - prod_k](https://www.pbinfo.ro/probleme/3078/prod-k)
 
-14. [pbinfo.ro - prod_k](https://www.pbinfo.ro/probleme/3078/prod-k)
+14. [pbinfo.ro - suma_prefixe_pare](https://www.pbinfo.ro/probleme/4563/suma-prefixe-pare)
 
-15. [pbinfo.ro - suma_prefixe_pare](https://www.pbinfo.ro/probleme/4563/suma-prefixe-pare)
+15. [pbinfo.ro - ProdusCifreImpare](https://www.pbinfo.ro/probleme/65/produscifreimpare)
 
-16. [pbinfo.ro - ProdusCifreImpare](https://www.pbinfo.ro/probleme/65/produscifreimpare)
+16. [pbinfo.ro - Cifre_IX](https://www.pbinfo.ro/probleme/4558/cifre-ix)
 
-17. [pbinfo.ro - Cifre_IX](https://www.pbinfo.ro/probleme/4558/cifre-ix)
-
-18. [leetcode.com - Cifra de control](https://leetcode.com/problems/add-digits/description/)
+17. [leetcode.com - Cifra de control](https://leetcode.com/problems/add-digits/description/)
