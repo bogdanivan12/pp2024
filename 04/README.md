@@ -24,11 +24,11 @@ Să se afișeze toate cuvintele care sunt p-rime cu `w` (adică ultimele `p` car
 De exemplu, pentru `w = "mere"`, `p = 2` , `n = 4` și cuvintele `"pere"`, `"teste"`, `“are”` și `"programare"`,
 trebuie să fie afișate cuvintele `"pere"` și `"programare"` (`“are”` rimează cu `“mere”`, dar are lungime mai mică decât `p + 2`).
    - Aceeași cerință, dar pentru cuvintele dintr-o propoziție în care cuvintele sunt despărțite între ele prin spații.
-   De exemplu, pentru `w = "cere"`, `p = 2`, `n = 4` și propoziția `"Ana are mere si pere si banane de mancare"`,
-   trebuie să se afișeze următorul rezultat: `2-rimele cuvântului 'cere' sunt: are mere pere mancare`.
+   De exemplu, pentru `w = "cere"`, `p = 2` și propoziția `"Ana are mere si pere si banane de mancare"`,
+   trebuie să se afișeze următorul rezultat: `mere pere mancare`.
 
 8. Se citește un șir de caractere `s`. Să se verifice dacă există un șir `t`, diferit de `s`,
-astfel încât `s` să se poată obține prin concatenarea de un număr arbitrar de ori (`𝑘 > 1`) a șirului `t` (adică să se verifice dacă șirul `s` este periodic).
+astfel încât `s` să se poată obține prin concatenarea de un număr arbitrar de ori (`k > 1`) a șirului `t` (adică să se verifice dacă șirul `s` este periodic).
 Dacă există mai multe astfel de șiruri `t` se va determina cel mai lung.
 **Exemplu:** șirul `s = abbaabbaabbaabba` se obține prin concatenarea șirului `t = abbaabba` de două ori.
 
