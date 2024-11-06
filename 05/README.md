@@ -3,7 +3,7 @@
 ## Cerințe
 1. Se citesc un cuvânt `s` și un caracter `c` (date pe aceeași linie, separate prin spațiu).
 Să se afișeze ultimele `3` poziții pe care apare `c` în `s` (pe o singură linie, separate prin spațiu),
-sau un mesaj corespunzător dacă `c` nu apare de cel puțin `3` ori în `c`.
+sau un mesaj corespunzător dacă `c` nu apare de cel puțin `3` ori în `s`.
 
 2. Se citesc un cuvânt `s`, un cuvânt `t` și un număr `k` (date fiecare pe câte o linie).
 Să se verifice dacă `t` apare ca subșir în șirul `s` de cel puțin `k` ori (se numără aparițiile care nu se suprapun).
@@ -29,11 +29,18 @@ Să se afișeze media notelor studentului și cea mai mare nota obținută sub f
 Cuvintele sunt separate prin unul sau mai multe spații.
 
 7. Se citește de la tastatura un text format din mai multe propoziții. Fiecare propoziție se termină cu punct,
-iar cuvintele din propoziție sunt separate se semnele de punctuație uzuale. Să se afișeze:
+iar cuvintele din propoziție sunt separate de semnele de punctuație uzuale. Să se afișeze:
    - propozițiile care conțin de cele mai multe ori litera ‘a’
    - propozițiile cu cele mai puține cuvinte
    - cuvintele formate doar din litere mari și care au lungime minim 3
 
 ## Temă
 8. [pbinfo.ro - Sablon](https://www.pbinfo.ro/probleme/135/sablon)
+
 9. [pbinfo.ro - InversMax](https://www.pbinfo.ro/probleme/2681/inversmax)
+
+10. [Leetcode - Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
+
+11. [Leetcode - Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+
+12. [Leetcode - Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)
