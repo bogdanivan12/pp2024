@@ -24,7 +24,7 @@ Pentru fiecare angajat se citește ora la care are o activitate în instituție 
 3. Se citește din fișier un vector (elementele date pe o linie a fișierului, separate cu spațiu) și un număr `k` (dat pe o linie nouă în fișier).
 Să se afișeze elementele distincte din vector care au cel puțin `k` cifre (folosind și comprehensiune pentru mulțimi), ordonate crescător.
 
-4. Pe fiecare linie din fișierul multimi.in se află elementele unei mulțimi. Să se afişeze cardinalul minim al unei mulțimi din  fișier,
+4. Pe fiecare linie din fișierul `multimi.in` se află elementele unei mulțimi. Să se afişeze cardinalul minim al unei mulțimi din  fișier,
 mulțimile care au cardinal minim și reuniunea acestora.
 
 5. Se citește din fișier o matrice. 
