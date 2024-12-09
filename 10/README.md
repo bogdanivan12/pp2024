@@ -3,6 +3,7 @@
 1. **\[Total 1.5 p]** Se citește de la tastatură o propoziție în care cuvintele sunt separate prin câte un spațiu.
 
     a. **\[0.75 p]** Să se afișeze care este lungimea maximă a unui cuvânt din propoziție.
+    
     b. **\[0.75 p]** Să se afișeze cuvintele de lungime maximă din propoziție pe o linie, separate cu spațiu.
 
     **Exemplu:**
